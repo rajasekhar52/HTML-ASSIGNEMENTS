@@ -1,0 +1,23 @@
+<!--Assignment - 2: Create an about-us section, services section to navigate within a single page. -->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Creating Section</title>
+</head>
+<body>
+	<section>
+		<h1 style="color: hotpink;">Aboutus</h1>
+		<p style="color: solid black; font-size: 25px; ">
+			Welcome to Kits college
+		</p>
+	</section>
+	<section>
+		<h1 style="color: hotpink;">Services</h1>
+		<p style="color: solid black; font-size: 25px; ">
+			Services were provided by College Management
+		</p>
+	</section>
+
+</body>
+</html>
